@@ -1,0 +1,7 @@
+pip:
+  pandas
+  autocorrect
+  scikit-learn
+  matplotlib
+  torch 
+  transformers
